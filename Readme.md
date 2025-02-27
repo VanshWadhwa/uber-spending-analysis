@@ -38,8 +38,6 @@ This project provides an interactive dashboard for analyzing Uber trip data usin
 - `fare_amount`: The fare amount charged for the trip
 - `status`: Status of the trip
 
-![Uber Data Sample](image_placeholder)
-
 ---
 
 ## 🔹 How to Use This App
@@ -47,7 +45,6 @@ This project provides an interactive dashboard for analyzing Uber trip data usin
 1. **Upload your Uber trip data CSV file** (e.g., `Rider/trips_data-0.csv`) using the file uploader.
 2. **Explore visualizations** to gain insights into trip trends, fare analysis, and more.
 
-![Upload CSV](image_placeholder)
 
 ---
 
